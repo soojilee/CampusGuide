@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<entry>
+	    <id>0</id>
+	    <name>ACW - Accelerator Centre</name>
+	    <latitude>43.477407</latitude>
+	    <longitude>-80.548740</longitude>
+	    <description>
+			ACW - Accelerator Centre
+        </description>
+	</entry>
+    <entry>
+        <id>1</id>
+        <name>AL - Arts Lecture Hall</name>
+        <latitude>43.468978</latitude>
+        <longitude>-80.541799</longitude>
+        <description>
+            The Arts Lecture Hall houses the Arts Student Union office and 4 large lecture theatres, the largest one of which seats about 350 students. Smaller classrooms on the second floor are for tutorials, discussions, and group meetings. Whatever your program, you may find yourself listening to a lecture in the Arts Lecture Hall.
+        </description>
+    </entry>
+    <entry>
+        <id>2</id>
+        <name>B1 - Biology 1</name>
+        <latitude>43.470613</latitude>
+        <longitude>-80.542933</longitude>
+        <description>
+            B1 is one of the buildings where you’ll find Faculty of Science programs. B1 is comprised primarily of lab facilities – including the Aquarium and Fisheries Labs – as well as classrooms, and a lecture hall for science students. B1 is also home to the Plant Growth Facility - a 5,000-square-foot greenhouse with 27 controlled environment units for research. If you take first-year Biology, you'll probably have labs here.
+        </description>
+    </entry>
+    <entry>
+        <id>3</id>
+        <name>B2 - Biology 2</name>
+        <latitude>43.470788</latitude>
+        <longitude>-80.543826</longitude>
+        <description>
+            B2 houses research facilities, graduate student labs, and the Herbarium. A new computerized lab and lecture space includes an interactive terminal with each station. Here as well is the Institute of Biochemistry and Molecular Biology, which co-ordinates high-level research in integrated biotechnology fields. These fields, such as genetics and DNA replication, have important applications in the fight against cancer.
+        </description>
+    </entry>
+    <entry>
+        <id>4</id>
+        <name>BAU - Bauer Warehouse</name>
+        <latitude>43.483470</latitude>
+        <longitude>-80.545664</longitude>
+        <description>
+            BAU - Bauer Warehouse
+        </description>
+    </entry>
+    <entry>
+        <id>5</id>
+        <name>BMH - B.C. Matthews Hall</name>
+        <latitude>43.473906</latitude>
+        <longitude>-80.545447</longitude>
+        <description>
+            BMH is one of the buildings that house the Faculty of Applied Health Sciences. AHS offers programs in Health Studies, Kinesiology, and Recreation and Leisure Studies – all dedicated to promoting health and wellbeing, preventing disease, and helping people get the most out of life. In BMH, you'll find lecture halls, seminar rooms and research labs, including some of the world's most advanced equipment for studying the science of human movement. The building is also home to AHSUM, the faculty’s undergraduate student society. BMH is named for the university’s second president, Burt Matthews.
+        </description>
+    </entry>
+    <entry>
+        <id>6</id>
+        <name>BRH - Brubacher House</name>
+        <latitude>43.475778</latitude>
+        <longitude>-80.552400</longitude>
+        <description>
+            BRH - Brubacher House
+        </description>
+    </entry>
+    <entry>
+        <id>7</id>
+        <name>C2 - Chemistry 2</name>
+        <latitude>43.472298</latitude>
+        <longitude>-80.542998</longitude>
+        <description>
+            Part of the Faculty of Science, C2 is the main area for the Department of Chemistry. It houses cool classrooms fitted with video education links, technology that allows lectures to be held simultaneously at Waterloo and other universities. In a C2 classroom, you can interact with professors and students at universities located in other cities
+        </description>
+    </entry>
+    <entry>
+        <id>8</id>
+        <name>CGR - Conrad Grebel University College</name>
+        <latitude>43.466929</latitude>
+        <longitude>-80.545385</longitude>
+        <description>
+            One of 4 University Colleges affiliated with the University of Waterloo, Conrad Grebel is the home of Music, and Peace and Conflict Studies, as well as the Living-Learning Communities for students in those programs. A residence and an apartment complex house a strong community of 172 students, from first to fourth year. In the rooms on the top floor of the residence, you'll find innovative "skybunks," built by Grebel students
+        </description>
+    </entry>
+    <entry>
+        <id>9</id>
+        <name>CIF - Columbia Icefield</name>
+        <latitude>43.475436</latitude>
+        <longitude>-80.548548</longitude>
+        <description>
+            If you join one of Waterloo’s varsity or intramural teams, CIF will likely become familiar. The facility houses an ice rink, a gym, racquetball and squash courts, weight rooms, fitness facilities, and the varsity therapy centre. Practice fields are located around the CIF, along with 3 baseball diamonds and the new Warrior Field, home to Waterloo’s football Warriors.
+        </description>
+    </entry>
+    <entry>
+        <id>10</id>
+        <name>CLN - Columbia Lake Village North</name>
+        <latitude>43.472193</latitude>
+        <longitude>-80.562639</longitude>
+        <description>
+        	Columbia Lake Village-North (CLV-N) houses both single grads and families. The single grad section features 2-bedroom, fully furnished townhouses. The family section is also made up of 2-bedroom townhouses, however these units are unfurnished.    
+        </description>
+    </entry>
+    <entry>
+        <id>11</id>
+        <name>CLV - Columbia Lake Village</name>
+        <latitude>43.470388</latitude>
+        <longitude>-80.561537</longitude>
+        <description>
+            Columbia Lake Village (CLV) is a townhouse community for all students. It’s a safe, comfortable environment for people of all ages, from all over the world. Columbia Lake Village-South (CLV-S) is home to first-year, upper-year and exchange undergrad students, year-round. Up to 400 students live here in 4-bedroom, 1 bathroom, furnished townhouses. The centrally located CLV Community Centre is like the living room of the Village. Here you’ll find the CLV Front Desk where you can send or receive faxes, and sign out movies, games or equipment. If you’re living in the South Community, you’ll find your mailbox just outside the Community Centre.
+        </description>
+    </entry>
+    <entry>
+        <id>12</id>
+        <name>COG - Columbia Greenhouses</name>
+        <latitude>43.473383</latitude>
+        <longitude>-80.559411</longitude>
+        <description>
+            COG - Columbia Greenhouses
+        </description>
+    </entry>
+    <entry>
+        <id>13</id>
+        <name>COM - Commissary UW Police Parking</name>
+        <latitude>43.474283</latitude>
+        <longitude>-80.542940</longitude>
+        <description>
+            COM - Commissary UW Police Parking
+        </description>
+    </entry>
+    <entry>
+        <id>14</id>
+        <name>CPH - Carl A. Pollock Hall</name>
+        <latitude>43.471146</latitude>
+        <longitude>-80.539382</longitude>
+        <description>
+            CPH is the hub of Engineering student life. On the first floor, you'll find POETS, the student pub and lounge; the Engineering Coffee and Doughnut shop; the Engineering Undergraduate Office; the Engineering Society; and the Multimedia Classroom, a theatre-style lecture area with 120 computers. Upper floors house classrooms, labs, and offices.CPH is named for Carl Pollack, one of the university’s founders.
+        </description>
+    </entry>
+    <entry>
+        <id>15</id>
+        <name>CSB - Central Services Building</name>
+        <latitude>43.473961</latitude>
+        <longitude>-80.543631</longitude>
+        <description>
+            CSB - Central Services Building
+        </description>
+    </entry>
+    <entry>
+        <id>16</id>
+        <name>DC - William G. Davis Computer Research Centre</name>
+        <latitude>43.472688</latitude>
+        <longitude>-80.542216</longitude>
+        <description>
+            The DC, home to Waterloo's Software Engineering program, contains 2 lecture halls, each with seats for 250 people, a food court, and a library that supports Engineering, Mathematics, Science, and Computer Science. The upper floors house the offices of the David R. Cheriton School of Computer Science, named for the distinguished Waterloo alumnus and computer scientist. The DC was designed to look like a microchip. The building is named for a former premier of Ontario who was a strong supporter of post-secondary education.
+        </description>
+    </entry>
+    <entry>
+        <id>17</id>
+        <name>DWE - Douglas Wright Engineering Building</name>
+        <latitude>43.470244</latitude>
+        <longitude>-80.539565</longitude>
+        <description>
+            DWE was the first permanent Waterloo academic building. Built in 1958, it’s an example of what was then innovative academic architecture. Unlike traditional ivy-covered halls, Waterloo's buildings were designed to fit into the surrounding landscape, just as the new educational system was designed to fit into the real world. Currently undergoing a major renovation, the building is named for Douglas Wright, third president of the University of Waterloo.
+        </description>
+    </entry>
+    <entry>
+        <id>18</id>
+        <name>E2 - Engineering 2</name>
+        <latitude>43.471081</latitude>
+        <longitude>-80.540258</longitude>
+        <description>
+            E2 is home base for the Department of Civil and Environmental Engineering, where researchers are developing technologies to improve construction, transportation and water-management systems. E2 also provides space for the Electrical and Computer Engineering department's digital hardware, fibre optics, and microwave labs, as well as the Iron Warrior student newspaper. One of the campus's main connection points, E2 has indoor access directly to Carl Pollock Hall, Engineering 3, J.R. Coutts Engineering Lecture Hall, and Physics.
+        </description>
+    </entry>
+    <entry>
+        <id>19</id>
+        <name>E3 - Engineering 3</name>
+        <latitude>43.471780</latitude>
+        <longitude>-80.540712</longitude>
+        <description>
+            E3 provides space for Engineering's heavy laboratories, including the Fluids Lab (which contains a wind tunnel and various fluids and hydraulic equipment), a pressure-sealed clean room and the Engineering Machine Shop. The Centre for the Advancement of Trenchless Technologies (CATT), which helps municipalities solve problems involving water, wastewater and storm water pipelines, is also located here.
+        </description>
+    </entry>
+    <entry>
+        <id>20</id>
+        <name>E5 - Engineering 5</name>
+        <latitude>43.473088</latitude>
+        <longitude>-80.540113</longitude>
+        <description>
+            E5 is headquarters for Mechanical and Mechatronics Engineering and Systems Design Engineering. The building also provides research space for Electrical and Computer Engineering. E5's centerpiece is the two-storey, 20,000 square-foot Student Design Centre. If you get involved with one of Engineering's student teams, this is where you'll find work bays, design studios, computer labs and meeting rooms. E5 also houses faculty offices, the Centre for Automotive Research (WatCAR), and facilities for intelligent antenna and radio technologies, human-robot interaction, and more. The building connects to E3 via an enclosed walkway over the campus's Ring Road.
+        </description>
+    </entry>
+    <entry>
+        <id>21</id>
+        <name>E6 - Engineering 6</name>
+        <latitude>43.473210</latitude>
+        <longitude>-80.538704</longitude>
+        <description>
+            If you’re in Chemical Engineering, you’ll probably spend some time in E6. This brand-new building houses lecture and seminar rooms, not to mention space for student projects. You’ll also find your professors’ offices here, plus 48 labs where researchers are working in plastics and polymer science, biomedical engineering, green reaction engineering and advanced materials engineering.
+        </description>
+    </entry>
+    <entry>
+        <id>22</id>
+        <name>ECH - East Campus Hall</name>
+        <latitude>43.473911</latitude>
+        <longitude>-80.538718</longitude>
+        <description>
+            East Campus Hall is where you’ll find the Fine Arts department, which offers programs in studio art, art history, and film studies. If you’re a Fine Arts student, you’ll find individual studio space here and a gallery where you can display your work. The Independent Studies program has its offices here as well. ECH also houses Waterloo's finance offices, as well as shipping, receiving, and mail services.
+        </description>
+    </entry>
+    <entry>
+        <id>23</id>
+        <name>EIT - Centre for Environmental and Information Technology</name>
+        <latitude>43.471726</latitude>
+        <longitude>-80.542086</longitude>
+        <description>
+            In CEIT, teams of experts from 4 of Waterloo's 6 faculties – Engineering, Environment, Mathematics, and Science – get together to solve complex environmental problems and expand the frontiers of information technology. If you’re an Electrical and Computer Engineering student, you’ll find your department’s main office here. EIT also has a 150-seat lecture theatre, 19 specialized laboratories for teaching and research, and a fountain that replicates the Great Lakes. The Earth Sciences Museum, open to the public, is a favourite with the elementary school students who visit with school tours.
+        </description>
+    </entry>
+    <entry>
+        <id>24</id>
+        <name>Energy Research Centre (Energy Research Centre)</name>
+        <latitude>43.945656</latitude>
+        <longitude>-78.896217</longitude>
+        <description>
+            Part of the Faculty of Engineering, ERC houses state-of-the-art research and development facilities. You’ll find Mechanical and Mechatronics Engineering labs here, dedicated to solar thermal research, advanced glazing systems, fuel cell and green energy research, and more.
+        </description>
+    </entry>
+    <entry>
+        <id>25</id>
+        <name>EV1 - Environment 1</name>
+        <latitude>43.468447</latitude>
+        <longitude>-80.542545</longitude>
+        <description>
+            EV1 is full of resources for students in the Faculty of Environment. Its airy, indoor courtyard is a relaxing space for reading or meeting with friends. The coffee shop is a great hangout if you want to grab a bite to eat, and in warm weather, enjoy your lunch outside in the Robert Dorney Ecology Garden. On the academic side, you’ll find research equipment and learn practical field skills in the Ecology Lab. And the Map Library is great if you need a quiet place to study.
+        </description>
+    </entry>
+    <entry>
+        <id>26</id>
+        <name>EV2 - Environment 2</name>
+        <latitude>43.468065</latitude>
+        <longitude>-80.543214</longitude>
+        <description>
+            EV2 houses a wide range of exceptional environmental research facilities, like the Mapping Analysis and Design group, where you can use a geomatics lab, a design centre for creating 2- and 3-dimensional models, plus digital video and sound labs.
+        </description>
+    </entry>
+    <entry>
+        <id>27</id>
+        <name>EV3 - Environment 3</name>
+        <latitude>43.468331</latitude>
+        <longitude>-80.543348</longitude>
+        <description>
+            In EV3, you'll find a lecture hall, a geospatial analysis lab, a cafe offering fair-trade coffee, two garden courtyards, and a design studio that will be your “second home” if you’re a Planning student. EV3 is a living laboratory, a LEED® Platinum facility that meets the highest criteria for green building certification. Cool features include a two-story biowall, a green roof, and a solar power system that generates 60,000 KWh a year.
+        </description>
+    </entry>
+    <entry>
+        <id>28</id>
+        <name>ESC - Earth Sciences &amp; Chemistry</name>
+        <latitude>43.472279</latitude>
+        <longitude>-80.543878</longitude>
+        <description>
+            Earth Sciences and Chemistry provides lab facilities for the Faculty of Science. It's also the home of the Science Undergraduate Office, and BUGS, the Biology Undergraduate Society. If you're in Science, you'll take your first-year Chemistry labs here – and go shopping for your supplies in Chem Stores!
+        </description>
+    </entry>
+    <entry>
+        <id>29</id>
+        <name>FED - Federation Hall</name>
+        <latitude>43.473314</latitude>
+        <longitude>-80.548442</longitude>
+        <description>
+            One of Waterloo's 2 on-campus bars, Fed Hall is the venue for concerts, conferences, banquets, wedding receptions, and many other events. The Tragically Hip, Bedouin Soundclash, the Tea Party, Our Lady Peace, Spirit of the West, the Trews, Sloan, and I Mother Earth have all played at Fed Hall.
+        </description>
+    </entry>
+    <entry>
+        <id>30</id>
+        <name>GH - Graduate House</name>
+        <latitude>43.663528</latitude>
+        <longitude>-79.401514</longitude>
+        <description>
+            The Grad House is the original Mennonite farmhouse that stood on campus when the land was purchased in 1957. It’s now a popular restaurant and pub facility used by graduate students and faculty members. It also houses the administrative office of the Graduate Students' Association.
+        </description>
+    </entry>
+    <entry>
+        <id>31</id>
+        <name>GSC - General Services Complex</name>
+        <latitude>43.473590</latitude>
+        <longitude>-80.542850</longitude>
+        <description>
+            GSC - General Services Complex
+        </description>
+    </entry>
+    <entry>
+        <id>32</id>
+        <name>HH - J.G. Hagey Hall of the Humanities</name>
+        <latitude>43.468015</latitude>
+        <longitude>-80.541502</longitude>
+        <description>
+            HH houses classrooms and administrative offices for the School of Accounting and Finance as well as programs in the Faculty of Arts. The 720-seat Humanities Theatre is used for lectures, community events, concerts, dramatic productions, and dance recitals. It's where students, professors, and staff gathered to hear Bill Gates on both of his recent visits to Waterloo – the only Canadian stop on his North American university tours. The building is named for Gerald Hagey, the University of Waterloo’s first president.
+        </description>
+    </entry>
+    <entry>
+        <id>33</id>
+        <name>HMN - Hildegard Marsden Nursery</name>
+        <latitude>43.476567</latitude>
+        <longitude>-80.549278</longitude>
+        <description>
+            HMN - Hildegard Marsden Nursery
+        </description>
+    </entry>
+    <entry>
+        <id>34</id>
+        <name>HS - Health Services</name>
+        <latitude>43.470808</latitude>
+        <longitude>-80.546019</longitude>
+        <description>
+            At Health Services, you'll find your "family doctor" away from home. The friendly staff provides medical services and offer workshops and information sessions about the student health plan, nutrition, vegetarian cooking, and much more.
+        </description>
+    </entry>
+    <entry>
+        <id>35</id>
+        <name>IHB - Integrated Health Building 1</name>
+        <latitude>43.452314</latitude>
+        <longitude>-80.498920</longitude>
+        <description>
+            IHB - Integrated Health Building 1
+        </description>
+    </entry>
+    <entry>
+        <id>36</id>
+        <name>KDC - Klemmer Day Care</name>
+        <latitude>43.476093</latitude>
+        <longitude>-80.549163</longitude>
+        <description>
+            KDC - Klemmer Day Care
+        </description>
+    </entry>
+    <entry>
+        <id>37</id>
+        <name>LHI - Lyle S. Hallman Institute for Health Promotion</name>
+        <latitude>43.473328</latitude>
+        <longitude>-80.546022</longitude>
+        <description>
+            In LHI, you'll find a number of research centres, like the Propel Centre for Population Health Impact and the Research Institute for Aging (RIA). In the Manulife Wellness Centre, students volunteer in community outreach programs such as UW WELL-FIT, a group exercise program for people undergoing cancer treatments. The centre is also used for personal training, fitness testing and firefighter candidate testing.
+        </description>
+    </entry>
+    <entry>
+        <id>38</id>
+        <name>LIB - Dana Porter Library</name>
+        <latitude>43.469824</latitude>
+        <longitude>-80.542277</longitude>
+        <description>
+            You can see the Dana Porter Library from almost anywhere on campus. Nicknamed “the sugar cube” for its square design, DP is one of 2 main libraries on campus – there are 8 in all. DP houses 10 floors of resources for the humanities and social sciences. Using the library's Trellis system, you can also access and order materials from 2 other universities as well, a total of 7.5 million print and electronic items! Other features are the Doris Lewis Rare Book Room, the Centre for Learning and Teaching through Technology. Get the munchies while studying? Then check out Browsers – a coffee shop and study lounge area on the main floor.
+        </description>
+    </entry>
+    <entry>
+        <id>39</id>
+        <name>M3 - Mathematics 3</name>
+        <latitude>43.473301</latitude>
+        <longitude>-80.544358</longitude>
+        <description>
+            This new building has 90,000 square feet of research and teaching space. It's home to the Department of Statistics and Actuarial Science and the Mathematics and Business programs. The ground floor features a 392-seat lecture theatre, Math student club offices and study spaces. Math’s legendary Pink Tie hung here for the first time during spring Convocation 2011.
+        </description>
+    </entry>
+    <entry>
+        <id>40</id>
+        <name>MC - Mathematics &amp; Computer Building (Computer Help &amp; Information Place)</name>
+        <latitude>43.472161</latitude>
+        <longitude>-80.543926</longitude>
+        <description>
+            MC houses classrooms, computer labs, the Math Society offices, the Mathematics Undergraduate Office, several tutorial centers, a student-run food services outlet and the Comfy Lounge. You'll find offices for Conflict Management and Human Rights as well as the Centre for Education in Mathematics and Computing – the people who administer math competitions like the Euclid Mathematics Contest and the Canadian Computing Competition. You can bring your computer to the IST Help Desk for repair or have your passport photo taken at Media.doc. MC is attached to the Davis Centre by glass walkways from the third and fourth floors.
+        </description>
+    </entry>
+    <entry>
+        <id>41</id>
+        <name>MHR - Minota Hagey Residence</name>
+        <latitude>43.472195</latitude>
+        <longitude>-80.544046</longitude>
+        <description>
+            Minota Hagey Residence was renovated in 2008 and transformed into VeloCity, a "dormcubator" where top students in a number of disciplines live and work on projects related to mobile communications, web, and new media.
+        </description>
+    </entry>
+    <entry>
+        <id>42</id>
+        <name>MKV - William Lyon Mackenzie King Village (William Lyon Mackenzie King Village) </name>
+        <latitude>43.471446</latitude>
+        <longitude>-80.552508</longitude>
+        <description>
+            Mackenzie King Village (MKV) is a great place to start learning life skills while still living in residence. If you live in MKV, you’ll learn to shop for groceries, cook, and clean for yourself. But you’ll be living with three other students, so you won’t have to learn all those life lessons on your own! MKV is home to 320 residents. Each suite has 4 bedrooms and 2 full bathrooms. There are 2 wings (East and West) with 4 floors in each wing. Each floor houses 40 residents and one Don. Most floors are co-ed but each suite is single-sex. As this is a suite-style residence, meal plans are optional. MKV was named for a former Canadian Prime Minister who was born in Kitchener-Waterloo.
+        </description>
+    </entry>
+    <entry>
+        <id>43</id>
+        <name>ML - Modern Languages</name>
+        <latitude>43.469111</latitude>
+        <longitude>-80.542709</longitude>
+        <description>
+            In ML, you’ll find the Theatre of the Arts, a 500-seat facility that’s used for classes as well as performances. You’ll become well acquainted with the theater if you’re a Drama major, or if you check out the student productions held throughout the year. ML houses the Faculty of Arts’ language departments, as well as language labs, an art gallery, a cafeteria with outdoor seating, and a Tim Hortons. Outside ML, don’t forget to rub Porcellino the boar’s nose – it’ll bring you luck.
+        </description>
+    </entry>
+    <entry>
+        <id>44</id>
+        <name>NH - Ira G. Needles Hall</name>
+        <latitude>43.469763</latitude>
+        <longitude>-80.543413</longitude>
+        <description>
+            NH is the university's administrative headquarters (you may meet President Hamdullahpur on the elevator) and has many essential services you'll use when you're at Waterloo: the Office of the Registrar, which handles all student admissions, enrollment, and records, the Student Awards &amp; Financial Aid Office, where you can find out about OSAP, bursaries, and scholarships, Counselling Services, which offers study skills workshops as well as counselling, and the Office for Persons with Disabilities. The building was named for one of the university’s founders.
+        </description>
+    </entry>
+    <entry>
+        <id>45</id>
+        <name>OPT - Optometry Building</name>
+        <latitude>43.475967</latitude>
+        <longitude>-80.545465</longitude>
+        <description>
+            OPT is the home of Waterloo's School of Optometry, the leading centre for vision research in Canada. If you’re an Optometry student, this will be your home base on campus. In this building, you’ll find a clinic that provides eye examinations and optical services for the community, a laser surgery facility, and the Museum of Vision Science. Waterloo students and staff often take part in studies conducted by the Centre for Contact Lens Research, one of the research centres housed here.
+        </description>
+    </entry>
+    <entry>
+        <id>46</id>
+        <name>Physical Activities Complex</name>
+        <latitude>43.472276</latitude>
+        <longitude>-80.546302</longitude>
+        <description>
+            The large gym in the PAC is regularly transformed from sports venue to examination hall to convocation auditorium. The PAC is also the base for campus events like Reunion Weekend or our Open Houses. But on most days, it’s a place to be active. PAC facilities include a bouldering wall, a pool, weight rooms, a golf simulator room, 9 squash courts, 2 gyms, and 2 fitness studios. Join one of our intramural teams or teams, or sign up for a recreation program – everything from ballroom dancing to karate.
+        </description>
+    </entry>
+    <entry>
+        <id>47</id>
+        <name>PAS - Psychology, Anthropology, Sociology</name>
+        <latitude>43.467289</latitude>
+        <longitude>-80.542390</longitude>
+        <description>
+            Inside the PAS, you'll find the departments of Psychology, Anthropology, and Sociology. You may hear young children nearby because there's also a daycare centre for the children of students, faculty, and staff, as well as the Psychology Department's Centre for Child Studies. If you're an Arts student, you'll also find your undergraduate offices, the Arts Computing office, the Arts coffee shop, and your undergraduate advisor in this building.
+        </description>
+    </entry>
+    <entry>
+        <id>48</id>
+        <name>PHR - School of Pharmacy</name>
+        <latitude>43.452804</latitude>
+        <longitude>-80.498663</longitude>
+        <description>
+            PHR - School of Pharmacy
+        </description>
+    </entry>
+    <entry>
+        <id>49</id>
+        <name>PHY - Physics</name>
+        <latitude>43.470679</latitude>
+        <longitude>-80.541355</longitude>
+        <description>
+            Home to the Department of Physics and Astronomy, PHY also houses the campus observatory, where for some courses, undergraduate students use the telescope to complete assignments. From the outside, you can see the dome on the roof. Normally, it’s silver – except for one Halloween, when students painted it to look like a pumpkin!
+        </description>
+    </entry>
+    <entry>
+        <id>50</id>
+        <name>QNC - Mike &amp; Ophelia Lazaridis Quantum-Nano Centre</name>
+        <latitude>43.471431</latitude>
+        <longitude>-80.544064</longitude>
+        <description>
+            Shared by the Institute for Quantum Computing (IQC) and the Waterloo Institute for Nanotechnology (WIN), the Mike &amp; Ophelia Lazaridis Quantum-Nano Centre provides our researchers with the tools and opportunities they need to unlock the amazing power of quantum information science and the boundless potential of nanotechnology. The groundbreaking discoveries that happen here will continue Waterloo’s long tradition of research excellence, innovation and collaboration through the 21st century.
+        </description>
+    </entry>
+    <entry>
+        <id>51</id>
+        <name>RA2 - Research Advancement Centre 2</name>
+        <latitude>43.478472</latitude>
+        <longitude>-80.555539</longitude>
+        <description>
+            RA2 - Research Advancement Centre 2
+        </description>
+    </entry>
+    <entry>
+        <id>52</id>
+        <name>RAC - Research Advancement Centre</name>
+        <latitude>43.478985</latitude>
+        <longitude>-80.554952</longitude>
+        <description>
+            RAC - Research Advancement Centre
+        </description>
+    </entry>
+    <entry>
+        <id>53</id>
+        <name>RCH - J.R. Coutts Engineering Lecture Hall</name>
+        <latitude>43.470358</latitude>
+        <longitude>-80.540802</longitude>
+        <description>
+            The building is predominantly classrooms, with a large lecture hall that seats 389. Whatever program you're in, you'll likely have a class or 2 in RCH. RCH is named for alumnus Rod Coutts, in recognition of his significant gift to Waterloo Engineering.
+        </description>
+    </entry>
+    <entry>
+        <id>54</id>
+        <name>REN - Renison University College</name>
+        <latitude>43.469068</latitude>
+        <longitude>-80.547445</longitude>
+        <description>
+            Renison is both an academic building and residence (a cozy home to 220 students). It's well known for its programs in the Social Sciences, and it's home to the highly sought after Social Development Studies program and the School of Social Work. Want to learn about other cultures or learn a new language? Renison offers East Asian Studies and Studies in Islam and classes in Chinese, Japanese, Korean, and Arabic! Renison is also home to the Applied Language Studies department, where you can also take courses for learning or teaching English as a second language.
+        </description>
+    </entry>
+    <entry>
+        <id>55</id>
+        <name>REV - Ron Eydt Village</name>
+        <latitude>43.470376</latitude>
+        <longitude>-80.553994</longitude>
+        <description>
+            REV is a traditional-style that’s home to 1,000 first-year students who live in fully furnished double rooms. There are 50 students and one Don on each floor with 5 floors in each quad (North, South, East and West). There's a central community centre complete with a big-screen TV, weight room, laundry room and piano room. You purchase a Food Services meal plan that you can use at REVelation, the on-site cafeteria (as well as other on-campus eateries). REV is where many of uWaterloo's Living-Learning Communities are based including: Arts and Business, Biology, Physical Sciences and Recreation and Leisure Studies. REV was named for Ron Eydt, a former head of campus residences.
+        </description>
+    </entry>
+    <entry>
+        <id>56</id>
+        <name>SCH - South Campus Hall</name>
+        <latitude>43.469434</latitude>
+        <longitude>-80.540314</longitude>
+        <description>
+            SCH is located at the front entrance to the university, just off University Avenue. If you're new to Waterloo, you can stop by the Visitors Centre for information or to join a campus tour. You can buy your textbooks at the Bookstore, look for black and gold spirit wear at the Waterloo Shop, pick up stationery items at Write Stuff, or get your laptop serviced at esmart. Most importantly, you’ll find the Student Success Office, with all the support and resources you need to make your university experience amazing.
+        </description>
+    </entry>
+    <entry>
+        <id>57</id>
+        <name>SLC - Student Life Centre</name>
+        <latitude>43.471769</latitude>
+        <longitude>-80.545303</longitude>
+        <description>
+            The SLC is open 24 hours a day, 365 days a year! It's the hub of student activity and probably the most popular building on campus. Here’s where you can chill out when you’re not in class or gather for special events (David Suzuki gave a symposium here.) The SLC’s Great Hall is the campus living room – perfect for studying, meeting friends, playing board games, or eating lunch. At the Turnkey Desk, there's always someone on duty to answer your questions. Other services you'll find in the SLC: The Federation of Students (the Feds), Waterloo's undergraduate student government, Imprint, Waterloo's student newspaper, Federation Xpress convenience store, A full-service CIBC bank, The WatCard office, where you’ll get your Waterloo ID, A physiotherapy and massage clinic, Brubakers restaurant, The Bombshelter Pub, Campus social club offices (more than 150 to choose from), and more!
+        </description>
+    </entry>
+    <entry>
+        <id>58</id>
+        <name>STJ - St. Jerome's University</name>
+        <latitude>43.469421</latitude>
+        <longitude>-80.545632</longitude>
+        <description>
+            Although St. Jerome's University is a Roman Catholic liberal arts institution, it welcomes students of all backgrounds in a supportive, close-knit community. If you register through SJU for many of Waterloo’s Arts or Mathematics programs, you'll have priority for one of the residence’s 280 spots.
+        </description>
+    </entry>
+    <entry>
+        <id>59</id>
+        <name>STP - St. Paul's University College</name>
+        <latitude>43.467842</latitude>
+        <longitude>-80.546310</longitude>
+        <description>
+            St. Paul's offers a number of Waterloo courses, including the ground-breaking International Development program. Any Waterloo student can apply to live at St. Paul’s residence, but it’s especially attractive if you’re studying French or the environment. It’s home to La Bastille, Waterloo's French residence floor, as well as the Waterloo Environment Living Learning Community.
+        </description>
+    </entry>
+    <entry>
+        <id>60</id>
+        <name>TC - William M. Tatham Centre for Co-operative Education &amp; Career Action</name>
+        <latitude>43.469491</latitude>
+        <longitude>-80.541380</longitude>
+        <description>
+            The TC is the place for all things related to your career. In the Centre for Career Action, you’ll find helpful people who can provide employer information sessions, career counselling, skills workshops, and more. If you’re in co-op, the TC is where you’ll have in-person or telephone interviews with potential employers and meet with your co-op advisor.
+        </description>
+    </entry>
+    <entry>
+        <id>61</id>
+        <name>TH - Tutors' Houses</name>
+        <latitude>43.470768</latitude>
+        <longitude>-80.552671</longitude>
+        <description>
+            TH - Tutors' Houses
+        </description>
+    </entry>
+    <entry>
+        <id>62</id>
+        <name>UC - University Club</name>
+        <latitude>43.472449</latitude>
+        <longitude>-80.547316</longitude>
+        <description>
+            Once reserved for faculty members, the upscale University Club restaurant is now open to the entire university community. Lunch is served daily in a warm, relaxing atmosphere, and the Club is also used for meetings, weddings, banquets, and private receptions. Some residence Dons hold end-of-term house or floor dinners here. Extra-delicious buffets are prepared for holidays – take your special someone for an elegant meal on Valentine's Day, and don’t miss the Thanksgiving pecan-crusted pumpkin and caramel cheesecake!
+        </description>
+    </entry>
+    <entry>
+        <id>63</id>
+        <name>UWP - University of Waterloo Place</name>
+        <latitude>43.470079</latitude>
+        <longitude>-80.535291</longitude>
+        <description>
+            UW Place combines the independence of living off campus with the convenience of living in residence. You'll learn to live with your suitemates, cook your own meals, and clean your own apartment. UWP is a suite-style residence, made up of 6 buildings. Each building is unique and there are 2,3, and 4-person suites available. Each floor has 20-50 students and one Don, and first-year suites are always single sex (although the floor may be co-ed). Meal plans are optional in this residence and University Plaza, right across the street, has many eateries that are student favourites.
+        </description>
+    </entry>
+    <entry>
+        <id>64</id>
+        <name>V1 - Student Village 1</name>
+        <latitude>43.471694</latitude>
+        <longitude>-80.549876</longitude>
+        <description>
+            At Village 1, you’ll find the ideal combination of community living and privacy. You can spend time studying alone or in groups, or socialize with others from your house or community. V1 has 26 houses, separated into 4 quads. Each house has 3 or 4 floors, with 14-16 people living on each floor. Houses are co-ed, but floors and bathrooms are single sex. Since V1 is a traditional-style residence, you purchase a meal plan through Food Services, which you can use at Mudie’s, the on-site cafeteria, or at multiple on-campus eateries. (Check out Mudie’s spicy chicken wrap!) V1 is also home to the Accounting and Finance Living-Learning Community.
+        </description>
+    </entry>
+

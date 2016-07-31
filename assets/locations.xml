@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <entry>
+        <id>16</id>
+        <name>DC - William G. Davis Computer Research Centre</name>
+        <latitude>43.472688</latitude>
+        <longitude>-80.542216</longitude>
+        <description>
+            The DC, home to Waterloo's Software Engineering program, contains 2 lecture halls, each with seats for 250 people, a food court, and a library that supports Engineering, Mathematics, Science, and Computer Science. The upper floors house the offices of the David R. Cheriton School of Computer Science, named for the distinguished Waterloo alumnus and computer scientist. The DC was designed to look like a microchip. The building is named for a former premier of Ontario who was a strong supporter of post-secondary education.
+        </description>
+    </entry>
+    <entry>
+        <id>20</id>
+        <name>E5 - Engineering 5</name>
+        <latitude>43.473088</latitude>
+        <longitude>-80.540113</longitude>
+        <description>
+            E5 is headquarters for Mechanical and Mechatronics Engineering and Systems Design Engineering. The building also provides research space for Electrical and Computer Engineering. E5's centerpiece is the two-storey, 20,000 square-foot Student Design Centre. If you get involved with one of Engineering's student teams, this is where you'll find work bays, design studios, computer labs and meeting rooms. E5 also houses faculty offices, the Centre for Automotive Research (WatCAR), and facilities for intelligent antenna and radio technologies, human-robot interaction, and more. The building connects to E3 via an enclosed walkway over the campus's Ring Road.
+        </description>
+    </entry>
+    <entry>
+        <id>23</id>
+        <name>EIT - Centre for Environmental and Information Technology</name>
+        <latitude>43.471726</latitude>
+        <longitude>-80.542086</longitude>
+        <description>
+            In CEIT, teams of experts from 4 of Waterloo's 6 faculties – Engineering, Environment, Mathematics, and Science – get together to solve complex environmental problems and expand the frontiers of information technology. If you’re an Electrical and Computer Engineering student, you’ll find your department’s main office here. EIT also has a 150-seat lecture theatre, 19 specialized laboratories for teaching and research, and a fountain that replicates the Great Lakes. The Earth Sciences Museum, open to the public, is a favourite with the elementary school students who visit with school tours.
+        </description>
+    </entry>
+    
+

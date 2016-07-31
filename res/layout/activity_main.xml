@@ -1,0 +1,146 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${packageName}.${activityClass}" >
+    
+    
+    
+    <FrameLayout 
+        android:id="@+id/camera_preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </FrameLayout>
+	<ImageView 
+        android:id="@+id/locText"
+        android:layout_height="40dp"
+        android:layout_width="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/location"
+        /> 
+        
+
+<!--     <Button 
+        android:id="@+id/dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_centerInParent="true"
+        android:text="@string/dp"
+        />  -->
+        
+<!--         <TextView android:id="@+id/locText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#A000"
+            android:textSize="15sp"
+            android:textColor="#fff"
+      	 /> -->
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/buttonsContainer"
+            
+            >
+<!--             
+            <TextView 
+            android:id="@+id/dcdirectioneer"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#f00"
+            android:textColor="#fff"
+            android:text=">>>>>>>>>>>>>>>>>>>>>DC"
+            android:layout_centerInParent="true"
+            
+			/>
+            <TextView 
+            android:id="@+id/stjdirectioneer"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#0f0"
+            android:textColor="#fff"
+            android:text=">>>>>>>>>>>>>>>>>>>STJ"
+            android:layout_centerInParent="true"
+			/>
+            <TextView 
+            android:id="@+id/libdirectioneer"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00f"
+            android:textColor="#fff"
+            android:text=">>>>>>>>>>>>>>>>>>>LIB"
+            android:layout_centerInParent="true"
+			/>
+            
+            <TextView 
+            android:id="@+id/v1directioneer"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#f0f"
+            android:textColor="#fff"
+            android:text=">>>>>>>>>>>>>>>>>>>V1"
+            android:layout_centerInParent="true"
+			/>
+            
+            <TextView 
+            android:id="@+id/e2directioneer"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#0ff"
+            android:textColor="#fff"
+            android:text=">>>>>>>>>>>>>>>>>>>E2"
+            android:layout_centerInParent="true"
+			/>
+            
+            
+            <TextView 
+                android:id="@+id/directioneer"
+			android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#fab"
+            android:textColor="#fff"
+            android:textSize="5sp"
+            android:text="                  >>>>>>>>>"
+            android:layout_centerInParent="true"
+			/>
+             -->
+            
+            </RelativeLayout>
+            
+        
+
+
+    
+  <!--  <TextView 
+        android:id="@+id/temp_gps_text"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:text="Looking for location ..."
+        android:textSize="50sp"
+        /> -->
+        
+
+    <Button 
+        android:id="@+id/tour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+   		android:layout_alignParentBottom="true"
+        android:text="@string/tour"
+        />
+     
+    <Button 
+        android:id="@+id/find"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+   		android:layout_alignParentBottom="true"
+        android:text="@string/find"
+        />
+    
+    
+
+</RelativeLayout>
